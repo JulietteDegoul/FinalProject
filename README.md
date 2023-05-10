@@ -11,4 +11,7 @@ Dataset: [Indiegogo crowdfunding campaigns](https://www.kaggle.com/datasets/quen
 The dataset contains 22,000 Indiegogo crowdfunding campaigns between 2011-2020 and 73 features.
 
 --------------------------
-Preprocess the data 
+1. Explore the dataset
+2. Preprocess/Extract/Encode the data that we'll use to build the model
+3. Train differents models to find the best
+4. BAM!
