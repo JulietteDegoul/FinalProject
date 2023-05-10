@@ -1,5 +1,5 @@
 # IndiePyGo
-Predicting the success of IndieGogo campaigns with Machine Learning - by Ilkay Müller & Juliette Degoul
+Predicting the success of IndieGogo campaigns with Machine Learning - by Ilkay M. & Juliette D.
 
 
 Crowdfunding platforms such as Indiegogo have revolutionized the way individuals and businesses raise funds for their projects. However, launching a successful crowdfunding campaign is not an easy task. Campaign creators face challenges such as identifying the optimal funding goal, crafting an effective campaign title, and finding the perfect time to launch their campaign. 
